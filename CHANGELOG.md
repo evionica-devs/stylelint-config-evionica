@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/evionica-devs/stylelint-config-evionica/compare/0.1.0...0.1.1) (2023-03-09)
+
+
+### Bug Fixes
+
+* bug with lasted prettier config ([da9ea4b](https://github.com/evionica-devs/stylelint-config-evionica/commit/da9ea4b18409efe9c9b138e46c4bff853da996f6))
+
 # 0.1.0 (2023-03-03)
 
 
