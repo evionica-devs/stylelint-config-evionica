@@ -3,7 +3,7 @@
 const path = require('path')
 
 module.exports = {
-  extends: ['stylelint-config-standard', 'stylelint-config-prettier'],
+  extends: ['stylelint-config-standard'],
   customSyntax: "postcss-html",
   ignoreFiles: [path.join(process.cwd(), "/dist/**/*"), path.join(process.cwd(), "/coverage/**/*")],
   rules: {
